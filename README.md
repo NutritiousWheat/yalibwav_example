@@ -1,5 +1,5 @@
 # Simple wav CLI editor
-An example program which uses [this](https://github.com/FeckingPotato/yalibwav) library
+An example program which uses [this](https://github.com/NutritiousWheat/yalibwav) library
 ## Usage
 `./libwav_example <command> <input file> <output file> [arguments]`
 ## Commands and arguments
